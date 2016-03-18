@@ -3,12 +3,9 @@
 *.ipr
 .classpath
 .idea/
-.gradle/
 .project
 .settings
 bin/
-build/
+target/
 classes
-gradle/
-gradlew*
 out
